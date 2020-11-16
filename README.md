@@ -1,3 +1,11 @@
+## PWA Optimized React App Template
+
+Fast & Reliable\
+Installable\
+PWA Optimized (except http to https conversion)\
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
