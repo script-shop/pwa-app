@@ -1,6 +1,6 @@
-import React from "react";
-import Page from "./Page";
-import "./App.css";
+import React from 'react';
+import Page from './Page';
+import './style.css';
 
 const App = () => {
   return <Page />;
